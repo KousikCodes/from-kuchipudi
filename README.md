@@ -28,6 +28,6 @@ Below is a list of some of my favorite restaurants and food vendors. I highly re
 | Restaurant Name      | Reason for Recommendation                          | Location          |
 |----------------------|----------------------------------------------------|-------------------|
 | The Spicy Grill       | Amazing range of spicy dishes for adventurous eaters | Downtown  |
-| de Cafe     | small cafe with low crowd | Eastside          |
+| de Cafe     | small cafe with less crowd | Eastside          |
 | Mc'D    | Best burgers in town | Main Street       |
 | Maryville Bakery       | Fantastic selection of pastries and desserts       | North 420st |
