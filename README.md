@@ -31,3 +31,12 @@ Below is a list of some of my favorite restaurants and food vendors. I highly re
 | de Cafe     | small cafe with less crowd | Eastside          |
 | Mc'D    | Best burgers in town | Main Street       |
 | Maryville Bakery       | Fantastic selection of pastries and desserts       | North 420st |
+
+--------------
+
+#### Quotes Section
+
+> People think that I must be a very strange person. This is not correct. I have the heart of a small boy. It is in a glass jar on my desk.
+>
+> When it comes to the past, everyone writes fiction
+>> *Stephen King*
