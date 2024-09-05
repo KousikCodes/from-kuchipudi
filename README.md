@@ -19,3 +19,15 @@ I enjoy ***badminton*** because it's fast-paced and requires both **physical** f
     * public parks
 
 [Link to MYDish](MyDish.md)
+
+----------------------------------------
+
+#### Tables Section
+Below is a list of some of my favorite restaurants and food vendors. I highly recommend trying these places for their unique offerings, great food, and delightful atmosphere. Each one offers a special experience worth checking out!
+ 
+| Restaurant Name      | Reason for Recommendation                          | Location          |
+|----------------------|----------------------------------------------------|-------------------|
+| The Spicy Grill       | Amazing range of spicy dishes for adventurous eaters | Downtown  |
+| de Cafe     | small cafe with low crowd | Eastside          |
+| Mc'D    | Best burgers in town | Main Street       |
+| Maryville Bakery       | Fantastic selection of pastries and desserts       | North 420st |
