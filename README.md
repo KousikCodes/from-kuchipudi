@@ -40,3 +40,16 @@ Below is a list of some of my favorite restaurants and food vendors. I highly re
 >
 > When it comes to the past, everyone writes fiction
 >> *Stephen King*
+
+--------------
+
+#### Code Fencing
+
+The following code is a Dart code that finds the `difference` between two lists.
+```
+List difference(Iterable a, Iterable b) {
+  final s = b.toSet();
+  return a.where((x) => !s.contains(x)).toList();
+}
+```
+Quick-Link to the source of the code <https://code.pieces.app/collections/dart>
